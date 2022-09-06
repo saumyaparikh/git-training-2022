@@ -15,3 +15,5 @@ wefwefwef
 wefewfewf
 git diff --staged => diff of last commit vs added
 git diff => commited vs working dire / unstaged
+
+changes on feat2
