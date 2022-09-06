@@ -5,4 +5,3 @@
 
 # Trainees
 - Abhishek Dhule
-- Saumya Parikh
