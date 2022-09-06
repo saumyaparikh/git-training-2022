@@ -1,7 +1,7 @@
-# trainers
+# Trainers
 - vinit
 - avasyu 
 - abhishek 
 
-# trainees
+# Trainees
 - 
