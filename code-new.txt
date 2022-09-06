@@ -8,3 +8,8 @@ wefewew
 wefewfewf
 wefewfewf
 wfeewfwef
+wefewfewfwe
+wefwefwef
+wefewfewf
+git diff --staged => diff of last commit vs added
+git diff => commited vs working dire / unstaged
